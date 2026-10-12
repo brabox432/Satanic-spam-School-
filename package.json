@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "homepage": "https://brabox432.github.io/Satanic-spam-School-/",
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
   "dependencies": {
